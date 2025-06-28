@@ -71,3 +71,5 @@ LeapGestRecog Dataset
 https://www.kaggle.com/datasets/gti-upm/leapgestrecog
 
 #OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/c102cf60-1cc3-49d4-8c97-a2f2a52fc708)
