@@ -1,14 +1,6 @@
 # HandGesture-Recognition-CNN  
 
-"company": SkillCraft Technology
-
-"NAME":DIVYANSH GAHLAUT
-
-"INTERN ID" :SCT/JUN25/6158
-
 "DOMAIN" : Machine Learning
-
-"DURATION": 4 WEEKS
 
 *Project Description:
 
